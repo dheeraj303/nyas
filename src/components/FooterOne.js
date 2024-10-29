@@ -20,7 +20,7 @@ const FooterOne = () => {
           <div className="container">
             <div
               className="footer-subscribe-inner bg-cover"
-              style={{ backgroundImage: 'url("./assets/img/bg/6.png")' }}
+              style={{ backgroundImage: 'url("./assets/img/logo4.png")' }}
             >
               <div className="row">
                 <div className="col-lg-6">
@@ -201,7 +201,7 @@ const FooterOne = () => {
           <div className="container">
             <div className="row">
               <div className="col-md-6 align-self-center">
-                <p>© AglieTech 2024 | All Rights Reserved</p>
+                <p>© Nyas Consultants 2024 | All Rights Reserved</p>
               </div>
               <div className="col-md-6 text-lg-end">
                 <Link to="#">Trams &amp; Condition</Link>
