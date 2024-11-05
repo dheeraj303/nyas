@@ -24,13 +24,13 @@ const BannerOne = () => {
           <div className='row'>
             <div className='col-lg-6 align-self-center'>
               <div className='banner-inner pe-xl-5'>
-                <h6
+                <h6 style={{fontWeight: "bold"}}
                   className='subtitle'
                   data-aos='fade-right'
                   data-aos-delay='100'
                   data-aos-duration='1500'
                 >
-                  Your all-in-one solution for every business need
+                  Your all-in-One Solution for every Business Need.
                 </h6>
                 <h2
                   className='title'

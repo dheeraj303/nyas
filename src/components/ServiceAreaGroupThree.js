@@ -7,6 +7,16 @@ const ServiceAreaGroupThree = () => {
       {/* service area start */}
       <div className="service-area bg-relative pd-top-120">
         <div className="container">
+        <div className="row justify-content-center">
+            <div className="col-xl-7 col-lg-8">
+              <div className="section-title text-center">
+                {/* <h6 className="color-base bg-none mb-3">Our Services</h6> */}
+                <h2 className="title">
+                  We Provide the best Technology Services
+                </h2>
+              </div>
+            </div>
+          </div>
           <div className="row">
             <div className="col-lg-4 col-md-6">
               <div className="single-work-process-inner">

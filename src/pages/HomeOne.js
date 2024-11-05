@@ -50,7 +50,7 @@ const HomeOne = () => {
       {/* <PricingAreaOne /> */}
 
       {/* Blog Area One */}
-      <BlogAreaOne />
+      {/* <BlogAreaOne /> */}
 
       {/* Footer One */}
       <FooterOne />

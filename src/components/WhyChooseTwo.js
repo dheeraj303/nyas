@@ -92,7 +92,7 @@ const WhyChooseTwo = () => {
             </div>
             <div className="col-lg-6">
               <h2>
-                How to Apply
+                Apply Now
               </h2>
               <p className="pt-4">
               Ready to take the next step in your career?

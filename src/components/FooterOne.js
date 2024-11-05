@@ -4,6 +4,7 @@ import {
   FaCalendarAlt,
   FaEnvelope,
   FaFacebookF,
+  FaHome,
   FaInstagram,
   FaPhoneAlt,
   FaTwitter,
@@ -16,7 +17,7 @@ const FooterOne = () => {
     <>
       {/* ================== Footer One Start ==================*/}
       <footer className="footer-area bg-black bg-cover">
-        <div className="footer-subscribe">
+        {/* <div className="footer-subscribe">
           <div className="container">
             <div
               className="footer-subscribe-inner bg-cover"
@@ -35,24 +36,24 @@ const FooterOne = () => {
               </div>
             </div>
           </div>
-        </div>
-        <div className="container">
+        </div> */}
+        <div className="container pt-5">
           <div className="row">
             <div className="col-lg-3 col-md-6">
               <div className="widget widget_about">
                 <div className="thumb">
-                  <img src="assets/img/logo2.png" alt="img" />
+                  <img src="assets/img/logo4.png" alt="img" />
                 </div>
                 <div className="details">
                   <p>
-                    Melbourne is simply is dumiomy is text Lorem Ipsum is simply
+                    transforming Business challenges into growth opportunities,we leverage our 3T Pillar - Talent,Tailored,trust- to deliver effective and customized solutionsfor your success.
                   </p>
-                  <p className="mt-3">
+                  {/* <p className="mt-3">
                     <FaPhoneAlt /> (+888) 123 456 765
                   </p>
                   <p className="mt-2">
                     <FaEnvelope /> (+888) 123 456 765
-                  </p>
+                  </p> */}
                   <ul className="social-media">
                     <li>
                       <Link to="#">
@@ -84,32 +85,33 @@ const FooterOne = () => {
                 <ul>
                   <li>
                     <Link to="/service">
-                      <FaArrowRight /> Ui Design
+                      <FaArrowRight /> Mobile Development
                     </Link>
                   </li>
                   <li>
                     <Link to="/service">
-                      <FaArrowRight /> Web design
+                      <FaArrowRight /> Cross Platform App Development
+                    </Link>
+                  </li>
+                  
+                  <li>
+                    <Link to="/service">
+                      <FaArrowRight />Digital product Development 
                     </Link>
                   </li>
                   <li>
                     <Link to="/service">
-                      <FaArrowRight /> Digital marketing{' '}
+                      <FaArrowRight /> Virtual Assistant
                     </Link>
                   </li>
                   <li>
                     <Link to="/service">
-                      <FaArrowRight /> Video Editing
+                      <FaArrowRight /> Project Management
                     </Link>
                   </li>
                   <li>
                     <Link to="/service">
-                      <FaArrowRight /> Pc Repairs
-                    </Link>
-                  </li>
-                  <li>
-                    <Link to="/service">
-                      <FaArrowRight /> Web Development
+                      <FaArrowRight /> Meta Campaigning 
                     </Link>
                   </li>
                 </ul>
@@ -117,36 +119,36 @@ const FooterOne = () => {
             </div>
             <div className="col-lg-3 col-md-6">
               <div className="widget widget_nav_menu">
-                <h4 className="widget-title">Pay links</h4>
+                <h4 className="widget-title">Quick links</h4>
                 <ul>
                   <li>
-                    <Link to="/service">
-                      <FaArrowRight /> Credit industrys
+                    <Link to="/">
+                      <FaArrowRight /> Home
+                    </Link>
+                  </li>
+                  <li>
+                    <Link to="/about">
+                      <FaArrowRight /> About Us
                     </Link>
                   </li>
                   <li>
                     <Link to="/service">
-                      <FaArrowRight /> Reasearch sector
+                      <FaArrowRight /> Our Services
                     </Link>
                   </li>
                   <li>
-                    <Link to="/service">
-                      <FaArrowRight /> Finance Sector{' '}
+                    <Link to="/technologies">
+                      <FaArrowRight /> Technologies
                     </Link>
                   </li>
                   <li>
-                    <Link to="/service">
-                      <FaArrowRight /> Credit industrys
+                    <Link to="/career">
+                      <FaArrowRight /> Career
                     </Link>
                   </li>
                   <li>
-                    <Link to="/service">
-                      <FaArrowRight /> Reasearch sector
-                    </Link>
-                  </li>
-                  <li>
-                    <Link to="/service">
-                      <FaArrowRight /> Finance Sector
+                    <Link to="/contact">
+                      <FaArrowRight /> Contact Us
                     </Link>
                   </li>
                 </ul>
@@ -155,7 +157,7 @@ const FooterOne = () => {
             <div className="col-lg-3 col-md-6">
               <div className="widget widget-recent-post">
                 <h4 className="widget-title">Contact us</h4>
-                <ul>
+                {/* <ul>
                   <li>
                     <div className="media">
                       <div className="media-left">
@@ -192,23 +194,33 @@ const FooterOne = () => {
                       </div>
                     </div>
                   </li>
-                </ul>
+                </ul> */}
+                <div className="details">
+
+                <p className="mt-3">
+                    <FaPhoneAlt />  +353 85 161 3637
+                  </p>
+
+                  <p className="mt-2">
+                    <FaEnvelope />  info@nyasconsultants.com
+                  </p>
+
+                  <p className="mt-2">
+                    <FaHome />  Mountjoy, Dublin1, <br></br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D01 XY58, IRELAND
+                  </p>
+                  </div>
               </div>
             </div>
           </div>
         </div>
         <div className="footer-bottom">
           <div className="container">
-            <div className="row">
-              <div className="col-md-6 align-self-center">
+            {/* <div className="row"> */}
+              <div className="text-center">
                 <p>© Nyas Consultants 2024 | All Rights Reserved</p>
               </div>
-              <div className="col-md-6 text-lg-end">
-                <Link to="#">Trams &amp; Condition</Link>
-                <Link to="#">Privacy Policy</Link>
-                <Link to="#">Contact Us</Link>
-              </div>
-            </div>
+              
+            {/* </div> */}
           </div>
         </div>
       </footer>

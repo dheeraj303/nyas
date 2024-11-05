@@ -18,7 +18,7 @@ const ServiceThree = () => {
       {/* ServiceAreaGroupThree */}
       <ServiceAreaGroupThree />
 
-      <ServiceAreaSeven />
+      {/* <ServiceAreaSeven /> */}
       {/* Pricing Area One */}
       {/* <PricingAreaOne /> */}
 

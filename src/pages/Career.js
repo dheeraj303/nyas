@@ -22,16 +22,16 @@ const Career = () => {
       <WhyChooseTwo />
 
       {/* ServiceAreaNine */}
-      <ServiceAreaNine />
+      {/* <ServiceAreaNine /> */}
 
       {/* WorkProcessEight */}
-      <WorkProcessEight />
+      {/* <WorkProcessEight /> */}
 
       {/* TestimonialNine */}
-      <TestimonialNine />
+      {/* <TestimonialNine /> */}
 
       {/* BlogAreaENine */}
-      <BlogAreaENine />
+      {/* <BlogAreaENine /> */}
 
       {/* FooterNine */}
       <FooterNine />

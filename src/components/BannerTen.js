@@ -52,7 +52,7 @@ const BannerTen = () => {
               </div>
               <div className="hero-conversion-wrap">
                 <div className="single-con-wraper">
-                  <div className="single-conversion-wrap">
+                  {/* <div className="single-conversion-wrap">
                     <div className="single-conversion">
                       <div className="left-content">
                         <h2>93%</h2>
@@ -77,7 +77,8 @@ const BannerTen = () => {
                         </h6>
                       </div>
                     </div>
-                  </div>
+                  </div> */}
+                  <p>Join our dynamic team at NYAS Consultants, where innovation, expertise, and collaboration drive impactful solutions for our clients.</p>
                 </div>
               </div>
             </div>
@@ -101,7 +102,7 @@ const BannerTen = () => {
 
       <>
         {/* start brand logo */}
-        <div className="about-area about-area_marquee about-area_ten bg-gray pt-5 pb-5">
+        {/* <div className="about-area about-area_marquee about-area_ten bg-gray pt-5 pb-5">
           <div className="container">
             <div className="client-slider owl-carousel">
               <Marquee gradient={false}>
@@ -126,7 +127,7 @@ const BannerTen = () => {
               </Marquee>
             </div>
           </div>
-        </div>
+        </div> */}
         {/* end brand logo */}
       </>
 
