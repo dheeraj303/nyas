@@ -3,11 +3,8 @@ import React from 'react';
 import NavBar from '../components/NavBar';
 import BannerTen from '../components/BannerTen';
 import WhyChooseTwo from '../components/WhyChooseTwo';
-import ServiceAreaNine from '../components/ServiceAreaNine';
-import WorkProcessEight from '../components/WorkProcessEight';
-import TestimonialNine from '../components/TestimonialNine';
-import BlogAreaENine from '../components/BlogAreaENine';
-import FooterNine from '../components/FooterNine';
+
+import FooterOne from '../components/FooterOne';
 
 const Career = () => {
   return (
@@ -33,8 +30,8 @@ const Career = () => {
       {/* BlogAreaENine */}
       {/* <BlogAreaENine /> */}
 
-      {/* FooterNine */}
-      <FooterNine />
+      
+      <FooterOne />
     </>
   );
 };

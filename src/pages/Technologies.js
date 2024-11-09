@@ -2,15 +2,10 @@ import React from 'react';
 import NavBar from '../components/NavBar';
 import BannerEight from '../components/BannerEight';
 import ServiceAreaSeven from '../components/ServiceAreaSeven';
-import WhyChoose from '../components/WhyChoose';
-import ProjectAreaThree from '../components/ProjectAreaThree';
-import WorkProcessSeven from '../components/WorkProcessSeven';
+
 import SolutionOne from '../components/SolutionOne';
-import TeamAreaFive from '../components/TeamAreaFive';
-import ContactAreaSix from '../components/ContactAreaSix';
-import TestimonialSeven from '../components/TestimonialSeven';
-import BlogAreaEight from '../components/BlogAreaEight';
-import FooterSeven from '../components/FooterSeven';
+
+import FooterOne from '../components/FooterOne';
 
 const Technologies = () => {
   return (
@@ -49,7 +44,9 @@ const Technologies = () => {
       {/* <BlogAreaEight /> */}
 
       {/* FooterSeven */}
-      <FooterSeven />
+      {/* <FooterSeven /> */}
+      <FooterOne />
+
     </>
   );
 };

@@ -154,7 +154,7 @@ const NavBar = () => {
                 <Link to="/service">Our Services</Link>
                 <ul className="sub-menu">
                   <li>
-                    <Link to="#">Mobile Development
+                    <Link to="/mobile-app">Mobile Development
                     </Link>
                   </li>
                   <li>

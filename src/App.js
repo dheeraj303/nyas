@@ -39,6 +39,7 @@ import Project from './pages/Project';
 import ProjectTwo from './pages/ProjectTwo';
 import ProjectThree from './pages/ProjectThree';
 import HomeEleven from './pages/HomeEleven';
+import MobileApp from './pages/MobileApp';
 function App() {
   useEffect(() => {
     AOS.init({
@@ -87,6 +88,7 @@ function App() {
         <Route exact path="/project-details" element={<ProjectDetails />} />
         <Route exact path="/technologies" element={<Technologies />} />
         <Route exact path="/career" element={<Career />} />
+        <Route exact path="/mobile-app" element={<MobileApp />} />
 
       </Routes>
       <ScrollToTop smooth color="#246BFD" />
