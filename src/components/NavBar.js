@@ -158,22 +158,23 @@ const NavBar = () => {
                     </Link>
                   </li>
                   <li>
-                    <Link to="#">Cross Platform App Development</Link>
+                    <Link to="/cross-platfrom-development">Cross Platform App Development</Link>
                   </li>
+                  
                   <li>
-                    <Link to="#">Digital product Development 
+                    <Link to="/digital-product-development">Digital product Development 
                     </Link>
                   </li>
                   <li>
-                    <Link to="#">Virtual Assistant
+                    <Link to="/virtual-assistant">Virtual Assistant
                     </Link>
                   </li>
                   <li>
-                    <Link to="#">Project Management
+                    <Link to="/project-management">Project Management
                     </Link>
                   </li>
                   <li>
-                    <Link to="#">Meta Campaigning 
+                    <Link to="/meta-campaign">Meta Campaigning 
                     </Link>
                   </li>
                   {/* <li>

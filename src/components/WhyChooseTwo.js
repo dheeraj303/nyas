@@ -88,7 +88,7 @@ const WhyChooseTwo = () => {
           </div>
           <div className="row">
             <div className="col-lg-6">
-              <img src="assets/img/home-11/w.png" alt="" />
+              <img src="assets/img/career/career.jpeg" alt="" />
             </div>
             <div className="col-lg-6">
               <h2>

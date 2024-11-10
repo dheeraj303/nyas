@@ -40,6 +40,11 @@ import ProjectTwo from './pages/ProjectTwo';
 import ProjectThree from './pages/ProjectThree';
 import HomeEleven from './pages/HomeEleven';
 import MobileApp from './pages/MobileApp';
+import CrossPlatformDevelopment from './pages/CrossPlatformDevelopment';
+import VirtualAssistant from './pages/VirtualAssistant';
+import MetaCampaign from './pages/MetaCampaign';
+import DigitalProductDevelopment from './pages/DigitalProductDevelopment';
+import ProjectManagement from './pages/ProjectManagement';
 function App() {
   useEffect(() => {
     AOS.init({
@@ -89,7 +94,11 @@ function App() {
         <Route exact path="/technologies" element={<Technologies />} />
         <Route exact path="/career" element={<Career />} />
         <Route exact path="/mobile-app" element={<MobileApp />} />
-
+        <Route exact path="/cross-platfrom-development" element={<CrossPlatformDevelopment />} />
+        <Route exact path="/virtual-assistant" element={<VirtualAssistant />} />
+        <Route exact path="/meta-campaign" element={<MetaCampaign />} />
+        <Route exact path="/project-management" element={<ProjectManagement />} />
+        <Route exact path="/digital-product-development" element={<DigitalProductDevelopment />} />
       </Routes>
       <ScrollToTop smooth color="#246BFD" />
     </BrowserRouter>

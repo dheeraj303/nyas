@@ -90,7 +90,7 @@ const BannerTen = () => {
               <div className="banner-thumb-2 mt-4 mt-lg-0">
                 <img
                   className="banner-animate-img banner-animate-img-4"
-                  src="assets/img/home-11/hero-thumb-2.png"
+                  src="assets/img/career/career1.jpeg"
                   alt="img"
                 />
               </div>
