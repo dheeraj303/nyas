@@ -26,12 +26,9 @@ const MobileAppArea = () => {
             data-aos="fade-up"
           >
             <div>
-              <h1>Mobile App Development</h1>
+              <h1>Digital App Development Services</h1>
               <h2>
-                React Native,  by Facebook, boosts mobile app
-                development, gaining popularity among startups and industry giants
-                like Instagram, Uber, and Bloomberg for its efficiency and
-                performance.{" "}
+                Our Digital App Development Services offer scalable mobile, enterprise, SaaS, and IoT solutions, with expert strategy and consulting to align your app with business goals.{" "}
               </h2>
               <a href="#about" className="btn-get-started scrollto">
                 Get Started
