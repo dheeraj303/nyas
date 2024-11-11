@@ -28,7 +28,7 @@ const MobileAppArea = () => {
             <div>
               <h1>Mobile App Development</h1>
               <h2>
-                React Native, developed by Facebook, boosts mobile app
+                React Native,  by Facebook, boosts mobile app
                 development, gaining popularity among startups and industry giants
                 like Instagram, Uber, and Bloomberg for its efficiency and
                 performance.{" "}
