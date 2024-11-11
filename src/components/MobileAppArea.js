@@ -61,9 +61,9 @@ const MobileAppArea = () => {
               data-aos="fade-left"
             >
               <div className="content pt-4 pt-lg-0">
-                <h3>Mobile App Development</h3>
+                <h3>Mobile App </h3>
                 <p className="font-italic">
-                  React Native, introduced by Facebook, revolutionizes mobile app
+                  React Native, deployed introduced by Facebook, revolutionizes mobile app
                   development, gaining popularity among startups and industry
                   leaders. Apps like Instagram, Uber, and Bloomberg rely on it.
                 </p>
