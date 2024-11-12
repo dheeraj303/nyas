@@ -82,7 +82,7 @@ $border-color_1: var(--accent-color);
 		align-items: center;
 		padding: 20px;
 		transition: 0.3s;
-		border: 1px solid color-mix(in srgb, var(--default-color), transparent 90%);
+		border: 1px solid color-mix(in srgb, var(--default-color,black), transparent 90%);
 		position: relative;
 		i {
 			font-size: 32px;

@@ -45,6 +45,7 @@ import VirtualAssistant from './pages/VirtualAssistant';
 import MetaCampaign from './pages/MetaCampaign';
 import DigitalProductDevelopment from './pages/DigitalProductDevelopment';
 import ProjectManagement from './pages/ProjectManagement';
+import LegalService from './pages/LegalService';
 function App() {
   useEffect(() => {
     AOS.init({
@@ -99,6 +100,7 @@ function App() {
         <Route exact path="/meta-campaign" element={<MetaCampaign />} />
         <Route exact path="/project-management" element={<ProjectManagement />} />
         <Route exact path="/digital-product-development" element={<DigitalProductDevelopment />} />
+        <Route exact path="/legal-services" element={<LegalService />} />
       </Routes>
       <ScrollToTop smooth color="#246BFD" />
     </BrowserRouter>

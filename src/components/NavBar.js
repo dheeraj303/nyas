@@ -154,7 +154,7 @@ const NavBar = () => {
                 <Link to="/service">Our Services</Link>
                 <ul className="sub-menu">
                   <li>
-                    <Link to="/mobile-app">Mobile Development
+                    <Link to="/mobile-app">Digital App Development Services
                     </Link>
                   </li>
                   <li>
@@ -162,11 +162,11 @@ const NavBar = () => {
                   </li>
                   
                   <li>
-                    <Link to="/digital-product-development">Digital product Development 
+                    <Link to="/digital-product-development">Software Development Services
                     </Link>
                   </li>
                   <li>
-                    <Link to="/virtual-assistant">Virtual Assistant
+                    <Link to="/virtual-assistant">Operations Consultancy Services
                     </Link>
                   </li>
                   <li>
@@ -175,6 +175,10 @@ const NavBar = () => {
                   </li>
                   <li>
                     <Link to="/meta-campaign">Meta Campaigning 
+                    </Link>
+                  </li>
+                  <li>
+                    <Link to="/legal-services">Legal Services
                     </Link>
                   </li>
                   {/* <li>
