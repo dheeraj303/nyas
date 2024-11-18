@@ -85,33 +85,33 @@ const FooterOne = () => {
                 <ul>
                   <li>
                     <Link to="/service">
-                      <FaArrowRight /> Mobile Development
+                      <FaArrowRight /> Digital App Development Services
                     </Link>
                   </li>
                   <li>
                     <Link to="/service">
-                      <FaArrowRight /> Cross Platform App Development
+                      <FaArrowRight /> Cross Platform Apps Development 
                     </Link>
                   </li>
                   
                   <li>
                     <Link to="/service">
-                      <FaArrowRight />Digital product Development 
+                      <FaArrowRight />Software Development
                     </Link>
                   </li>
                   <li>
                     <Link to="/service">
-                      <FaArrowRight /> Virtual Assistant
+                      <FaArrowRight /> Operations Consultancy Services
                     </Link>
                   </li>
                   <li>
                     <Link to="/service">
-                      <FaArrowRight /> Project Management
+                      <FaArrowRight /> Digital Marketing
                     </Link>
                   </li>
                   <li>
                     <Link to="/service">
-                      <FaArrowRight /> Meta Campaigning 
+                      <FaArrowRight /> Legal Service 
                     </Link>
                   </li>
                 </ul>

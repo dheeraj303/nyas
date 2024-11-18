@@ -36,12 +36,13 @@ const FaqAreaOne = () => {
               data-aos-duration='1500'
             >
               <div className='section-title mb-0 mt-4 mt-lg-0'>
-                <h6 className='sub-title'>SOME FAQ'S</h6>
+                <h6 className='sub-title'>SOME Current Faq</h6>
                 <h2 className='title'>
-                  Creating <span>Digital</span> Masterpieces
+                Tailored  <span>Business </span> Solutions
                 </h2>
                 <p className='content'>
-                Our team creates digital masterpieces by combining innovative technology with expert knowledge, ensuring high-quality solutions tailored to meet your unique needs.
+                We offer tailored services in mobile development, cross-platform apps, digital marketing,
+software development, and web design for businesses
                 </p>
               </div>
               <div
@@ -58,7 +59,7 @@ const FaqAreaOne = () => {
                       aria-expanded='true'
                       aria-controls='collapseOne'
                     >
-                      What expertise does your team offer?
+                      How are solutions personalized?
                     </button>
                   </h2>
                   <div
@@ -68,7 +69,10 @@ const FaqAreaOne = () => {
                     data-bs-parent='#accordionExample'
                   >
                     <div className='accordion-body'>
-                    Our team consists of industry experts with deep knowledge, blending traditional methods with innovative strategies.
+                    We take the time to understand your unique business operations, challenges, and goals. Our
+personalized approach involves in-depth consultations and analysis to craft solutions that
+align with your specific objectives and growth plans.
+
                     </div>
                   </div>
                 </div>
@@ -82,7 +86,7 @@ const FaqAreaOne = () => {
                       aria-expanded='false'
                       aria-controls='collapseTwo'
                     >
-                      How do you customize your services?
+                      What experience does team have?
                     </button>
                   </h2>
                   <div
@@ -92,7 +96,10 @@ const FaqAreaOne = () => {
                     data-bs-parent='#accordionExample'
                   >
                     <div className='accordion-body'>
-                    We recognize each business is unique, allowing us to tailor our solutions to meet specific needs and requirements.
+                    Our operations consultants and virtual assistants have extensive expertise across various
+industries. This diverse experience allows us to offer top-quality service and effective,
+innovative solutions tailored to your industry and business model.
+
                     </div>
                   </div>
                 </div>
@@ -106,7 +113,7 @@ const FaqAreaOne = () => {
                       aria-expanded='false'
                       aria-controls='collapseThree'
                     >
-                      What is your commitment to quality?
+                    How do strategies save costs?
                     </button>
                   </h2>
                   <div
@@ -116,7 +123,10 @@ const FaqAreaOne = () => {
                     data-bs-parent='#accordionExample'
                   >
                     <div className='accordion-body'>
-                    We strive to exceed client expectations, treating every business with respect and dedication to ensure growth.
+                    Our focus is on streamlining processes, eliminating inefficiencies, and leveraging technology
+to optimize productivity. By reducing waste and improving workflows, we help your business
+achieve more with fewer resources, leading to significant cost savings.
+
                     </div>
                   </div>
                 </div>
@@ -130,7 +140,7 @@ const FaqAreaOne = () => {
                       aria-expanded='false'
                       aria-controls='collapseThree'
                     >
-                      What consultancy services do you provide?
+                       How is success measured?
                     </button>
                   </h2>
                   <div
@@ -140,7 +150,10 @@ const FaqAreaOne = () => {
                     data-bs-parent='#accordionExample'
                   >
                     <div className='accordion-body'>
-                    Our services include data analysis, project management, IT solutions, and virtual assistance tailored for your needs.
+                    We rely on performance metrics and data-driven analysis to track the impact of our solutions.
+By aligning our strategies with your long-term goals, we ensure sustained improvements and
+measurable results for your business.
+
                     </div>
                   </div>
                 </div>

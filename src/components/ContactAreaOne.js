@@ -34,13 +34,14 @@ const ContactAreaOne = () => {
                 data-aos-duration="1500"
               >
                 <div className="section-title mb-0">
-                  <h6 className="sub-title">GET IN TOUCH</h6>
+                  
                   <h2 className="title">
-                    Bringing Your <span>Vision</span> To Life
+                  Get Started <span>With</span> Us
                   </h2>
                   <p className="content">
-                    For your car we will do everything advice design in us
-                    repairs and maintenance. We are the some preferred.
+                  Ready to take your business to the next level with operations consulting and virtual
+assistant support? Contact us to discuss how our customized solutions can help you
+streamline your operations, reduce costs, and grow your business with confidence.
                   </p>
                   <form className="mt-4">
                     <div className="row">

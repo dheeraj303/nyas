@@ -24,10 +24,9 @@ const ServiceAreaGroupThree = () => {
                   <img src="assets/img/icon/18.svg" alt="img" />
                 </div>
                 <div className="details">
-                  <h5 className="mb-3">Mobile Development</h5>
+                  <h5 className="mb-3">Digital App Development Services</h5>
                   <p className="content mb-3">
-                  Mobile development involves creating applications for mobile devices using languages like Swift, Kotlin, and frameworks like Flutter or React Native. Focuses on performance, user experience, and cross-platform functionality.
-
+                  Our Digital App Development Services deliver scalable mobile, enterprise, SaaS, and IoT solutions, enhanced by expert strategy and consulting to align seamlessly with your unique business objectives.
                   </p>
                   {/* <Link className="read-more-text" to="/service-details">
                     Read More <FaArrowRight />
@@ -41,10 +40,12 @@ const ServiceAreaGroupThree = () => {
                   <img src="assets/img/icon/16.svg" alt="img" />
                 </div>
                 <div className="details">
-                  <h5 className="mb-3">Cross Platform App Development
+                  <h5 className="mb-3">Cross Platform Apps Development
                   </h5>
                   <p className="content mb-3">
-                  Cross-platform app development allows building apps for multiple platforms from a single codebase, saving time and resources while ensuring consistent user experiences across iOS and Android.
+                  Cross-platform mobile development enables businesses
+to create apps for Android and iOS efficiently, sharing code to reduce costs and time, while
+reaching a broader audience effectively.
 
                   </p>
                   {/* <Link className="read-more-text" to="/service-details">
@@ -59,9 +60,11 @@ const ServiceAreaGroupThree = () => {
                   <img src="assets/img/icon/17.svg" alt="img" />
                 </div>
                 <div className="details">
-                  <h5 className="mb-3">Virtual Assistant</h5>
+                  <h5 className="mb-3">Software Development</h5>
                   <p className="content mb-3">
-                  Hiring a virtual assistant from NYAS saves time and money while boosting productivity by delegating core and non-core tasks to experienced professionals.
+                  We provide custom software solutions, including website
+development, MVP testing, UI/UX design, maintenance, and blockchain expertise, ensuring
+secure, engaging, and up-to-date digital experiences for businesses
 
                   </p>
                   {/* <Link className="read-more-text" to="/service-details">
@@ -76,9 +79,12 @@ const ServiceAreaGroupThree = () => {
                   <img src="assets/img/icon/20.svg" alt="img" />
                 </div>
                 <div className="details">
-                  <h5 className="mb-3">Project Management</h5>
+                  <h5 className="mb-3">Operations Consultancy Services</h5>
                   <p className="content mb-3">
-                  Our PMO leverages advanced technology to ensure innovative, continuous development and comprehensive governance for the successful delivery of critical projects.
+                  Nyas Consultants optimize business operations with
+process improvement, technology implementation, virtual assistant support, continuous
+monitoring, and business development strategies for enhanced efficiency, growth, and brand
+recognition.
 
                   </p>
                   {/* <Link className="read-more-text" to="/service-details">
@@ -93,10 +99,12 @@ const ServiceAreaGroupThree = () => {
                   <img src="assets/img/icon/18.svg" alt="img" />
                 </div>
                 <div className="details">
-                  <h5 className="mb-3">Meta Campaigning & Creative Design
+                  <h5 className="mb-3">Digital Marketing
                   </h5>
                   <p className="content mb-3">
-                  Meta campaigning blends data-driven strategies with creative design, crafting engaging, targeted campaigns that enhance brand visibility, drive user interaction, and foster meaningful connections across platforms.
+                  Nyas Consultants offers tailored digital marketing services, including SEO,
+Google Ads, and Meta campaigns, to enhance online visibility, drive traffic, generate leads, and
+boost business growth.
 
                   </p>
                   {/* <Link className="read-more-text" to="/service-details">
@@ -111,9 +119,11 @@ const ServiceAreaGroupThree = () => {
                   <img src="assets/img/icon/16.svg" alt="img" />
                 </div>
                 <div className="details">
-                  <h5 className="mb-3">Big Data Analytics</h5>
+                  <h5 className="mb-3">Legal Service</h5>
                   <p className="content mb-3">
-                    Create ipsum dolor sit consec tetur sed diam in the aliquam
+                  - Nyas provides expert paralegal support, assisting attorneys, law firms, and
+businesses with legal requirements, ensuring compliance, and delivering efficient, thorough
+preparation for all legal matters.
                   </p>
                   {/* <Link className="read-more-text" to="/service-details">
                     Read More <FaArrowRight />
