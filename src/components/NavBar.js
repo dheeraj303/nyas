@@ -177,7 +177,35 @@ const NavBar = () => {
                     <Link to="/legal-services">Legal Services
                     </Link>
                   </li>
-                 
+                  <li>
+                    <Link to="/web-development">Custom Website Design & Development
+                    </Link>
+                  </li>
+
+                  <li>
+                    <Link to="/mvp-development">MVP Development & Testing
+                    </Link>
+                  </li>
+
+                  <li>
+                    <Link to="/ui-ux-design">UI/UX Design & Prototyping
+                    </Link>
+                  </li>
+
+                  <li>
+                    <Link to="/web-development">Ongoing Software & Website maintenance
+                    </Link>
+                  </li>     
+
+                  <li>
+                    <Link to="/blockchain">Block Chain Solutions & Decentralized Applications
+                    </Link>
+                  </li>            
+
+                  <li>
+                    <Link to="/digital-app-development">Digital App Development Service
+                    </Link>
+                  </li>
                   {/* <li>
                     <Link to="/pricing-2">Pricing 02</Link>
                   </li> */}

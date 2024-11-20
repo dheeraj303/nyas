@@ -46,6 +46,10 @@ import MetaCampaign from './pages/MetaCampaign';
 import DigitalProductDevelopment from './pages/DigitalProductDevelopment';
 import ProjectManagement from './pages/ProjectManagement';
 import LegalService from './pages/LegalService';
+import WebDevelopment from './pages/WebDevelopment';
+import BlockChain from './pages/BlockChain';
+import UI from './pages/UI';
+import MVP from './pages/MVP';
 function App() {
   useEffect(() => {
     AOS.init({
@@ -101,6 +105,10 @@ function App() {
         <Route exact path="/project-management" element={<ProjectManagement />} />
         <Route exact path="/digital-product-development" element={<DigitalProductDevelopment />} />
         <Route exact path="/legal-services" element={<LegalService />} />
+        <Route exact path = "/web-development" element = {<WebDevelopment/>}/>
+        <Route exact path = "/blockchain" element = {<BlockChain/>} />
+        <Route exact path = "/ui-ux-design" element = {<UI/>} />
+        <Route exact path = "/mvp-development" element = {<MVP/>} />
       </Routes>
       <ScrollToTop smooth color="#246BFD" />
     </BrowserRouter>
