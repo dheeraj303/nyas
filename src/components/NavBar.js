@@ -177,7 +177,7 @@ const NavBar = () => {
                     <Link to="/legal-services">Legal Services
                     </Link>
                   </li>
-                  <li>
+                  {/* <li>
                     <Link to="/web-development">Custom Website Design & Development
                     </Link>
                   </li>
@@ -205,7 +205,7 @@ const NavBar = () => {
                   <li>
                     <Link to="/digital-app-development">Digital App Development Service
                     </Link>
-                  </li>
+                  </li> */}
                   {/* <li>
                     <Link to="/pricing-2">Pricing 02</Link>
                   </li> */}

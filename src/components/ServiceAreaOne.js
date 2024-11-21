@@ -50,11 +50,14 @@ const ServiceAreaOne = () => {
           data-aos-delay={100}
         >
           <div className="features-item" style={{ height: 80 }}>
+          <Link to="/web-development">
+
             <i className="bi bi-laptop" style={{ color: "#ffbb2c" }} />
+            </Link>
             <h3>
-              <a href="" className="stretched-link">
+              {/* <a href="" className="stretched-link"> */}
                 Custom Website Design &amp; Development
-              </a>
+              {/* </a> */}
             </h3>
           </div>
         </div>
@@ -65,11 +68,14 @@ const ServiceAreaOne = () => {
           data-aos-delay={200}
         >
           <div className="features-item" style={{ height: 80 }}>
+          <Link to="/mvp-development">
+
             <i className="bi bi-box" style={{ color: "#5578ff" }} />
+            </Link>
             <h3>
-              <a href="" className="stretched-link">
+              {/* <a href="" className="stretched-link"> */}
                 MVP Development &amp; Testing
-              </a>
+              {/* </a> */}
             </h3>
           </div>
         </div>
@@ -80,11 +86,14 @@ const ServiceAreaOne = () => {
           data-aos-delay={300}
         >
           <div className="features-item" style={{ height: 80 }}>
+          <Link to="/ui-ux-design">
+
             <i className="bi bi-palette" style={{ color: "#e80368" }} />
+            </Link>
             <h3>
-              <a href="" className="stretched-link">
+              {/* <a href="" className="stretched-link"> */}
                 UI/UX Design &amp; Prototyping
-              </a>
+              {/* </a> */}
             </h3>
           </div>
         </div>
@@ -95,11 +104,14 @@ const ServiceAreaOne = () => {
           data-aos-delay={400}
         >
           <div className="features-item" style={{ height: 80 }}>
+          <Link to="/web-development">
+
             <i className="bi bi-tools" style={{ color: "#e361ff" }} />
+            </Link>
             <h3>
-              <a href="" className="stretched-link">
+              {/* <a href="" className="stretched-link"> */}
                 Ongoing Software &amp; Website Maintenance
-              </a>
+              {/* </a> */}
             </h3>
           </div>
         </div>
@@ -110,11 +122,14 @@ const ServiceAreaOne = () => {
           data-aos-delay={500}
         >
           <div className="features-item" style={{ height: 80 }}>
+          <Link to="/blockchain">
+
             <i className="bi bi-diagram-3" style={{ color: "#47aeff" }} />
+            </Link>
             <h3>
-              <a href="" className="stretched-link">
+              {/* <a href="" className="stretched-link"> */}
                 Blockchain Solutions &amp; Decentralized Applications
-              </a>
+              {/* </a> */}
             </h3>
           </div>
         </div>
@@ -125,7 +140,10 @@ const ServiceAreaOne = () => {
           data-aos-delay={600}
         >
           <div className="features-item" style={{ height: 80 }}>
+          <Link to="/mobile-app">
+
             <i className="bi bi-phone" style={{ color: "#ffa76e" }} />
+            </Link>
             <h3>
               <a href="" className="stretched-link">
                 Digital App Development Services
@@ -140,7 +158,10 @@ const ServiceAreaOne = () => {
           data-aos-delay={700}
         >
           <div className="features-item" style={{ height: 80 }}>
+          <Link to="/legal-services">
+
             <i className="bi bi-balance-scale" style={{ color: "#11dbcf" }} />
+            </Link>
             <h3>
               <a href="" className="stretched-link">
                 Legal Services
@@ -149,7 +170,7 @@ const ServiceAreaOne = () => {
           </div>
         </div>
         {/* End Feature Item */}
-        <div
+        {/* <div
           className="col-lg-3 col-md-4"
           data-aos="fade-up"
           data-aos-delay={800}
@@ -162,9 +183,9 @@ const ServiceAreaOne = () => {
               </a>
             </h3>
           </div>
-        </div>
+        </div> */}
         {/* End Feature Item */}
-        <div
+        {/* <div
           className="col-lg-3 col-md-4"
           data-aos="fade-up"
           data-aos-delay={900}
@@ -177,9 +198,9 @@ const ServiceAreaOne = () => {
               </a>
             </h3>
           </div>
-        </div>
+        </div> */}
         {/* End Feature Item */}
-        <div
+        {/* <div
           className="col-lg-3 col-md-4"
           data-aos="fade-up"
           data-aos-delay={1000}
@@ -192,9 +213,9 @@ const ServiceAreaOne = () => {
               </a>
             </h3>
           </div>
-        </div>
+        </div> */}
         {/* End Feature Item */}
-        <div
+        {/* <div
           className="col-lg-3 col-md-4"
           data-aos="fade-up"
           data-aos-delay={1100}
@@ -207,9 +228,9 @@ const ServiceAreaOne = () => {
               </a>
             </h3>
           </div>
-        </div>
+        </div> */}
         {/* End Feature Item */}
-        <div
+        {/* <div
           className="col-lg-3 col-md-4"
           data-aos="fade-up"
           data-aos-delay={1200}
@@ -225,7 +246,7 @@ const ServiceAreaOne = () => {
               </a>
             </h3>
           </div>
-        </div>
+        </div> */}
         {/* End Feature Item */}
       </div>
     </div>
